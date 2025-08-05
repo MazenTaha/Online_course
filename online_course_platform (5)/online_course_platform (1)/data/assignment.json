@@ -1,0 +1,72 @@
+[
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7b8",
+    "title": "Introduction to JavaScript",
+    "description": "Complete the JavaScript basics exercise.",
+    "dueDate": "2025-08-15T23:59:59Z",
+    "attachments": ["intro_js_exercise.pdf", "sample_code.js"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7b9",
+    "title": "Database Design Project",
+    "description": "Design a schema for an e-commerce database.",
+    "dueDate": "2025-08-20T23:59:59Z",
+    "attachments": ["db_design_doc.docx"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c0",
+    "title": "Final Presentation",
+    "description": "Prepare a 10-minute presentation on your project.",
+    "dueDate": "2025-08-25T23:59:59Z",
+    "attachments": ["presentation_template.pptx"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c1",
+    "title": "HTML/CSS Assignment",
+    "description": "Build a responsive webpage layout.",
+    "dueDate": "2025-09-01T23:59:59Z",
+    "attachments": ["html_css_template.html", "style_guide.pdf"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c2",
+    "title": "Python Basics Quiz",
+    "description": "Complete the Python fundamentals quiz.",
+    "dueDate": "2025-09-05T23:59:59Z",
+    "attachments": ["python_quiz.pdf"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c3",
+    "title": "Machine Learning Project",
+    "description": "Implement a simple machine learning model.",
+    "dueDate": "2025-09-10T23:59:59Z",
+    "attachments": ["ml_project_guidelines.docx", "dataset.csv"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c4",
+    "title": "Group Case Study",
+    "description": "Analyze the provided business case study.",
+    "dueDate": "2025-09-15T23:59:59Z",
+    "attachments": ["case_study.pdf"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c5",
+    "title": "React Component Assignment",
+    "description": "Create reusable React components.",
+    "dueDate": "2025-09-20T23:59:59Z",
+    "attachments": ["react_setup_guide.pdf"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c6",
+    "title": "Final Exam Preparation",
+    "description": "Review all topics for the final exam.",
+    "dueDate": "2025-09-25T23:59:59Z",
+    "attachments": ["exam_review_notes.pdf"]
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c7",
+    "title": "Cloud Computing Lab",
+    "description": "Set up a basic cloud instance.",
+    "dueDate": "2025-09-30T23:59:59Z",
+    "attachments": ["cloud_lab_instructions.pdf"]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "Ahmed",
+    "lastName": "Mohamed",
+    "email": "ahmed.mohamed@example.com",
+    "username": "ahmed_m",
+    "password": "StrongP@ss123",
+    "phone": "01234567894",
+    "age": 25,
+    "gender": "male"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Ali",
+    "email": "fatima.ali@example.com",
+    "username": "fatima_a",
+    "password": "SecureP@ss456",
+    "phone": "01598765431",
+    "age": 30,
+    "gender": "female"
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Hassan",
+    "email": "omar.hassan@example.com",
+    "username": "omar_h",
+    "password": "SafeP@ss789",
+    "phone": "01123456789",
+    "age": 28,
+    "gender": "male"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Khaled",
+    "email": "sara.khaled@example.com",
+    "username": "sara_k",
+    "password": "Passw0rd!123",
+    "phone": "01298765434",
+    "age": 27,
+    "gender": "female"
+  },
+  {
+    "firstName": "Youssef",
+    "lastName": "Ibrahim",
+    "email": "youssef.ibrahim@example.com",
+    "username": "youssef_i",
+    "password": "Strong@Pass456",
+    "phone": "01523456787",
+    "age": 32,
+    "gender": "male"
+  },
+  {
+    "firstName": "Laila",
+    "lastName": "Salem",
+    "email": "laila.salem@example.com",
+    "username": "laila_s",
+    "password": "Secure!Pass789",
+    "phone": "01187654320",
+    "age": 24,
+    "gender": "female"
+  },
+  {
+    "firstName": "Khalid",
+    "lastName": "Rashed",
+    "email": "khalid.rashed@example.com",
+    "username": "khalid_r",
+    "password": "Passw0rd@234",
+    "phone": "01234567815",
+    "age": 29,
+    "gender": "male"
+  },
+  {
+    "firstName": "Nour",
+    "lastName": "Zain",
+    "email": "nour.zain@example.com",
+    "username": "nour_z",
+    "password": "StrongP@ss910",
+    "phone": "01567890121",
+    "age": 26,
+    "gender": "female"
+  },
+  {
+    "firstName": "Mohammed",
+    "lastName": "Adel",
+    "email": "mohammed.adel@example.com",
+    "username": "mohammed_a",
+    "password": "SafeP@ss111",
+    "phone": "01123456790",
+    "age": 31,
+    "gender": "male"
+  },
+  {
+    "firstName": "Hana",
+    "lastName": "Tarek",
+    "email": "hana.tarek@example.com",
+    "username": "hana_t",
+    "password": "SecureP@ss222",
+    "phone": "01287654324",
+    "age": 23,
+    "gender": "female"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Fahmy",
+    "email": "elias.fahmy@example.com",
+    "username": "elias_f",
+    "password": "Passw0rd!345",
+    "phone": "01590123454",
+    "age": 33,
+    "gender": "male"
+  },
+  {
+    "firstName": "Reem",
+    "lastName": "Nasser",
+    "email": "reem.nasser@example.com",
+    "username": "reem_n",
+    "password": "Strong@Pass678",
+    "phone": "01134567896",
+    "age": 28,
+    "gender": "female"
+  }
+]

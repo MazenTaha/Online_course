@@ -1,0 +1,102 @@
+[
+  {
+    "firstName": "James",
+    "lastName": "Wilson",
+    "email": "james.wilson@example.com",
+    "username": "jamesw",
+    "password": "J@mes123!",
+    "phone": "01012345678",
+    "age": 28,
+    "gender": "male"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emma.j@example.com",
+    "username": "emmaj22",
+    "password": "Emm@2023!",
+    "phone": "01234567890",
+    "age": 25,
+    "gender": "female"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "email": "michael.b@example.com",
+    "username": "mikebrown",
+    "password": "M1ch@elB!",
+    "phone": "01598765432",
+    "age": 32,
+    "gender": "male"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Davis",
+    "email": "olivia.d@example.com",
+    "username": "oliviad",
+    "password": "0l1v1@D!",
+    "phone": "01123456789",
+    "age": 23,
+    "gender": "female"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Miller",
+    "email": "william.m@example.com",
+    "username": "willmiller",
+    "password": "W1ll1@mM!",
+    "phone": "01098765432",
+    "age": 35,
+    "gender": "male"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Taylor",
+    "email": "sophia.t@example.com",
+    "username": "sophiat",
+    "password": "S0ph1@T!",
+    "phone": "01298765432",
+    "age": 29,
+    "gender": "female"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Anderson",
+    "email": "ben.a@example.com",
+    "username": "benanderson",
+    "password": "B3nA!2023",
+    "phone": "01055556666",
+    "age": 40,
+    "gender": "male"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Thomas",
+    "email": "charlotte.t@example.com",
+    "username": "charlottet",
+    "password": "Ch@rl0tt3!",
+    "phone": "01123450987",
+    "age": 27,
+    "gender": "female"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Jackson",
+    "email": "daniel.j@example.com",
+    "username": "danielj",
+    "password": "D@n1elJ!",
+    "phone": "01501234567",
+    "age": 31,
+    "gender": "male"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "White",
+    "email": "amelia.w@example.com",
+    "username": "ameliaw",
+    "password": "Am3l1@W!",
+    "phone": "01087654321",
+    "age": 26,
+    "gender": "female"
+  }
+]

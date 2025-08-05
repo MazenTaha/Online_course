@@ -1,0 +1,52 @@
+[
+  {
+    "enrollment_id": "ENR001",
+    "enrollment_time": "2025-07-20T10:00:00Z",
+    "status": "active"
+  },
+  {
+    "enrollment_id": "ENR002",
+    "enrollment_time": "2025-07-21T14:30:00Z",
+    "status": "active"
+  },
+  {
+    "enrollment_id": "ENR003",
+    "enrollment_time": "2025-07-22T09:15:00Z",
+    "status": "inactive"
+  },
+  {
+    "enrollment_id": "ENR004",
+    "enrollment_time": "2025-07-23T16:45:00Z",
+    "status": "active"
+  },
+  {
+    "enrollment_id": "ENR005",
+    "enrollment_time": "2025-07-24T11:20:00Z",
+    "status": "inactive"
+  },
+  {
+    "enrollment_id": "ENR006",
+    "enrollment_time": "2025-07-25T13:00:00Z",
+    "status": "active"
+  },
+  {
+    "enrollment_id": "ENR007",
+    "enrollment_time": "2025-07-26T08:30:00Z",
+    "status": "active"
+  },
+  {
+    "enrollment_id": "ENR008",
+    "enrollment_time": "2025-07-27T15:10:00Z",
+    "status": "inactive"
+  },
+  {
+    "enrollment_id": "ENR009",
+    "enrollment_time": "2025-07-28T12:40:00Z",
+    "status": "active"
+  },
+  {
+    "enrollment_id": "ENR010",
+    "enrollment_time": "2025-07-29T17:00:00Z",
+    "status": "active"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "course_id": "COURSE001",
+    "course_title": "Introduction to Programming",
+    "category": "Programming"
+  },
+  {
+    "course_id": "COURSE002",
+    "course_title": "Web Development Basics",
+    "category": "Web Development"
+  },
+  {
+    "course_id": "COURSE003",
+    "course_title": "Data Science Fundamentals",
+    "category": "Data Science"
+  },
+  {
+    "course_id": "COURSE004",
+    "course_title": "Machine Learning 101",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "course_id": "COURSE005",
+    "course_title": "Cloud Computing Essentials",
+    "category": "Cloud Computing"
+  },
+  {
+    "course_id": "COURSE006",
+    "course_title": "Database Management",
+    "category": "Databases"
+  },
+  {
+    "course_id": "COURSE007",
+    "course_title": "Mobile App Development",
+    "category": "Mobile Development"
+  },
+  {
+    "course_id": "COURSE008",
+    "course_title": "Cybersecurity Basics",
+    "category": "Security"
+  },
+  {
+    "course_id": "COURSE009",
+    "course_title": "DevOps Practices",
+    "category": "DevOps"
+  },
+  {
+    "course_id": "COURSE010",
+    "course_title": "UI/UX Design",
+    "category": "Design"
+  }
+]

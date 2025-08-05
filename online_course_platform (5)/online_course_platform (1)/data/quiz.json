@@ -1,0 +1,110 @@
+[
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7b8",
+    "title": "JavaScript Basics Quiz",
+    "description": "Test your knowledge of JavaScript fundamentals.",
+    "questions": [
+      {
+        "questionText": "What is the output of '2' + 2 in JavaScript?",
+        "options": ["4", "22", "Error", "NaN"],
+        "correctAnswer": "22"
+      },
+      {
+        "questionText": "Which keyword is used to declare a variable in JavaScript?",
+        "options": ["var", "let", "const", "all of the above"],
+        "correctAnswer": "all of the above"
+      }
+    ],
+    "timeLimit": 30
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7b9",
+    "title": "Database Concepts Quiz",
+    "description": "Assess your understanding of database principles.",
+    "questions": [
+      {
+        "questionText": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Simple Query Language", "System Query Language", "Sequential Query Language"],
+        "correctAnswer": "Structured Query Language"
+      },
+      {
+        "questionText": "Which of these is a NoSQL database?",
+        "options": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
+        "correctAnswer": "MongoDB"
+      }
+    ],
+    "timeLimit": 45
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c0",
+    "title": "HTML/CSS Quiz",
+    "description": "Evaluate your HTML and CSS skills.",
+    "questions": [
+      {
+        "questionText": "Which tag is used to create a hyperlink?",
+        "options": ["<link>", "<a>", "<href>", "<url>"],
+        "correctAnswer": "<a>"
+      },
+      {
+        "questionText": "What does CSS stand for?",
+        "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "correctAnswer": "Cascading Style Sheets"
+      }
+    ],
+    "timeLimit": 25
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c1",
+    "title": "Python Fundamentals Quiz",
+    "description": "Test your Python programming basics.",
+    "questions": [
+      {
+        "questionText": "What is the output of print(2 ** 3)?",
+        "options": ["6", "8", "9", "4"],
+        "correctAnswer": "8"
+      },
+      {
+        "questionText": "Which of these is a Python data type?",
+        "options": ["int", "float", "str", "all of the above"],
+        "correctAnswer": "all of the above"
+      }
+    ],
+    "timeLimit": 35
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c2",
+    "title": "Machine Learning Basics Quiz",
+    "description": "Assess your understanding of machine learning concepts.",
+    "questions": [
+      {
+        "questionText": "What is the purpose of a training set?",
+        "options": ["Testing the model", "Training the model", "Validating the model", "Deploying the model"],
+        "correctAnswer": "Training the model"
+      },
+      {
+        "questionText": "Which algorithm is used for classification?",
+        "options": ["K-Means", "Linear Regression", "Decision Tree", "PCA"],
+        "correctAnswer": "Decision Tree"
+      }
+    ],
+    "timeLimit": 40
+  },
+  {
+    "instructorId": "60d5f8e8c1b2a3d4e5f6a7c3",
+    "title": "Network Security Quiz",
+    "description": "Evaluate your knowledge of network security.",
+    "questions": [
+      {
+        "questionText": "What does HTTPS stand for?",
+        "options": ["HyperText Transfer Protocol Secure", "High-Tech Transfer Protocol Secure", "HyperText Transfer Protocol Standard", "None of the above"],
+        "correctAnswer": "HyperText Transfer Protocol Secure"
+      },
+      {
+        "questionText": "Which protocol is used for secure email?",
+        "options": ["SMTP", "IMAP", "POP3", "All of the above with encryption"],
+        "correctAnswer": "All of the above with encryption"
+      }
+    ],
+    "timeLimit": 30
+  }
+]
